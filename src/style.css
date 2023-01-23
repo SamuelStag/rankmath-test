@@ -1,0 +1,22 @@
+#left-pane{
+    float:left
+}
+#right-pane{
+    float:right
+}
+#container{
+    width:45%;
+    border:1px solid;
+    margin: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding:1%;
+    height:50vh;
+}
+#graph-pane{
+    width:95%;
+    border:1px solid;
+    padding:1%;
+    margin-top: 10%;
+    height:80%;
+}
