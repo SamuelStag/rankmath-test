@@ -44,9 +44,11 @@ useEffect(()=>{
     
     <div id="right-pane">
       <select onChange={changeGraphState}>
-      <option value={7}> Last 7days</option>
-      <option value={15}> Last 15days</option>
       <option value={30}> Last 1month</option>
+      <option value={15}> Last 15days</option>
+      <option value={7}> Last 7days</option>
+     
+      
       </select>
       </div>
 
